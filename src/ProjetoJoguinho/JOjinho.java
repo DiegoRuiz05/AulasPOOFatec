@@ -1,3 +1,5 @@
+package ProjetoJoguinho;
+
 public class JOjinho {
     public static void main(String[] args) throws InterruptedException {
         {
