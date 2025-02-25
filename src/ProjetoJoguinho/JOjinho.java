@@ -15,7 +15,7 @@ public class JOjinho {
                 corrida = " " + space;
                 System.out.print(corrida);
                 space = " " + space;
-
+                System.out.println("Teste");
 
             }
         }
